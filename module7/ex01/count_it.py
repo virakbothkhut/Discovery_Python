@@ -19,20 +19,3 @@ for p in param:
 
 
 
-# #!/usr/bin/env python3
-
-# import sys
-
-# # Exclude the script name and check if arguments exist
-# params = sys.argv[1:]
-
-# if not params:
-#     print("none")
-#     exit(0)
-
-# # Print the number of parameters
-# print(f"parameters: {len(params)}")
-
-# # Print each parameter with its length
-# for param in params:
-#     print(f"{param}: {len(param)}")
