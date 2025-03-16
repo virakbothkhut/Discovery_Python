@@ -11,11 +11,3 @@ for p in param:
     print(f"{p}: {len(p)}")
 
 
-
-
-
-
-
-
-
-
